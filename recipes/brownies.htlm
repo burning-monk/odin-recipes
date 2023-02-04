@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Brownies</h1>
+    <img src="../img/brownies.jpg" width="300" height="350">
+    <p>Some delicious and easy to make brownies.</p>
+    <ul>
+       <li>2 cups white sugar</li>
+        <li>1 ½ cups all-purpose flour</li>
+        <li>½ cup baking cocoa</li>
+        <li>½ teaspoon salt</li>
+        <li>1 teaspoon baking powder</li>
+        <li>1 cup vegetable oil</li>
+        <li>4 eggs</li>
+        <li>2 tablespoons light corn syrup</li>
+        <li>1 teaspoon vanilla extract</li>
+        <li>1 cup chopped walnuts (Optional)</li>
+        <li>¼ cup confectioners' sugar</li>
+        <li>4 teaspoons water</li>
+    </ul>
+    <ol>
+        <li>Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking pan.</li>
+        <li>Combine white sugar, flour, cocoa, salt, and baking powder in a bowl. Whisk oil, eggs, corn syrup, and vanilla extract in a small bowl. Stir egg mixture into flour mixture; fold in walnuts. Spread into prepared baking pan.</li>
+        <li>Bake in preheated oven until a toothpick inserted near the center comes out clean, about 30 minutes.</li>
+        <li>Combine confectioner's sugar and water in a small bowl to make a glaze; drizzle over warm brownies.</li>
+    </ol>
+
+</body>
+</html>
